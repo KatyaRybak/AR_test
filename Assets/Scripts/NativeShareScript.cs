@@ -14,7 +14,7 @@ public class NativeShareScript : MonoBehaviour
     {
         string message = "";
         if (!isProcessing)
-        {
+        {          
             StartCoroutine(ShareScreenShot("com.DefaultCompany.VuforiaTest2", message));
         }
     }

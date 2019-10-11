@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\MailSender.cs" />
     <Compile Include="Assets\Scripts\NativeShareScript.cs" />
     <Compile Include="Assets\Scripts\WolfLogic.cs" />
+    <None Include="Assets\StreamingAssets\Vuforia\Wolf.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\NewTestDatabase.xml" />
